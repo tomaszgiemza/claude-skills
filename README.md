@@ -1,4 +1,4 @@
-# Claude Skills – Tomasz Giemza
+# Claude Skills – Giemza
 
 > Kompletny przewodnik po Claude AI po polsku. Kursy, prompty, Claude Code, API i integracje.
 
@@ -10,7 +10,7 @@
 
 Publiczne repozytorium wiedzy o Claude AI prowadzone przez **Tomasz Giemza** ([giemza.nl](https://giemza.nl)).
 
-Każda lekcja, prompt i skill to coś czego sam używam lub przetestowałem. Jeśli coś nie działa – poprawiam. Jeśli Anthropic wypuści nową funkcję – opisuję ją po polsku.
+Nie piszę teorii. Każda lekcja, prompt i skill to coś czego sam używam lub przetestowałem. Jeśli coś nie działa – poprawiam. Jeśli Anthropic wypuści nową funkcję – opisuję ją jako jeden z pierwszych po polsku.
 
 ---
 
