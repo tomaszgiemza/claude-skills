@@ -1,0 +1,43 @@
+title: Claude AI po polsku – Tomasz Giemza
+description: "Kompletny przewodnik po Claude AI po polsku. Kursy, prompty, integracje, Claude Code i API. Prowadzi Tomasz Giemza."
+baseurl: ""
+url: "https://claude.giemza.nl"
+
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+
+lang: pl
+author: Tomasz Giemza
+
+color_scheme: dark
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+
+nav_sort: order
+heading_anchors: true
+
+footer_content: "© 2025 <a href='https://giemza.nl'>Tomasz Giemza</a> · Claude AI po polsku"
+gh_edit_link: false
+last_edit_timestamp: false
+
+# Giscus komentarze
+giscus:
+  repo: "tomaszgiemza/claude-skills"
+  repo_id: "WSTAW_REPO_ID"
+  category: "Comments"
+  category_id: "WSTAW_CATEGORY_ID"
+  mapping: "pathname"
+  theme: "dark"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
