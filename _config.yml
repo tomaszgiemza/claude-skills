@@ -8,7 +8,7 @@ remote_theme: just-the-docs/just-the-docs@v0.10.0
 lang: pl
 author: Tomasz Giemza
 
-color_scheme: dark
+color_scheme: light
 search_enabled: true
 search:
   heading_level: 2
@@ -26,11 +26,11 @@ last_edit_timestamp: false
 # Giscus komentarze
 giscus:
   repo: "tomaszgiemza/claude-skills"
-  repo_id: "WSTAW_REPO_ID"
-  category: "Comments"
-  category_id: "WSTAW_CATEGORY_ID"
+  repo_id: "R_kgDORn35pw"
+  category: "Ogłoszenia"
+  category_id: "DIC_kwDORn35p84C4dw1"
   mapping: "pathname"
-  theme: "dark"
+  theme: "light"
 
 plugins:
   - jekyll-seo-tag
